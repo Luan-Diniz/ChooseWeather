@@ -1,4 +1,4 @@
-# ChooseWeather
+# ChooseWeather 1.0.1
 Is a Lethal Company's mod that enables the user to choose the weather.
 
 
