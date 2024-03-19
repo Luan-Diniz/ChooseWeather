@@ -1,0 +1,10 @@
+{
+    "name": "ChooseWeather",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Luan-Diniz/ChooseWeather",
+    "description": "Terminal commands that enables you to choose the weather.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+		"NotAtomicBomb-TerminalApi-1.5.2"
+    ]
+}
